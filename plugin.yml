@@ -1,0 +1,7 @@
+main: net.theuniverscraft.HgAchievementsLobby.HgAchievementsLobby
+name: HgAchievementsLobby
+version: 0.1
+depend: [HgAchievements]
+commands:
+  setjump:
+    usage: /<command>
